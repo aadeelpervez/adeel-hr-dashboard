@@ -1,0 +1,31 @@
+EmployeeID,Name,Gender,Age,Department,JobTitle,City,MonthlySalaryPKR,YearsAtCompany,Status
+E001,Aisha Khan,Female,29,HR,HR Executive,Karachi,85000,3,Active
+E002,Bilal Ahmed,Male,34,Sales,Sales Manager,Lahore,145000,7,Active
+E003,Sana Ali,Female,27,Finance,Accountant,Karachi,92000,2,Active
+E004,Usman Malik,Male,41,IT,IT Manager,Islamabad,210000,11,Active
+E005,Hira Shah,Female,31,Marketing,Marketing Specialist,Lahore,110000,5,Active
+E006,Hamza Raza,Male,26,Operations,Coordinator,Karachi,72000,1,Active
+E007,Maryam Noor,Female,38,Finance,Finance Manager,Islamabad,185000,9,Active
+E008,Ahmed Saeed,Male,30,IT,Data Analyst,Karachi,135000,4,Active
+E009,Zoya Iqbal,Female,25,Sales,Sales Executive,Lahore,78000,1,Resigned
+E010,Danish Farooq,Male,36,Operations,Operations Lead,Karachi,155000,8,Active
+E011,Iqra Javed,Female,32,HR,HR Manager,Islamabad,160000,6,Active
+E012,Saad Hussain,Male,28,Marketing,Content Analyst,Karachi,98000,3,Active
+E013,Noor Fatima,Female,40,IT,Software Engineer,Lahore,195000,10,Active
+E014,Talha Mir,Male,24,Sales,Sales Executive,Karachi,70000,1,Resigned
+E015,Mehak Aslam,Female,35,Operations,Team Lead,Islamabad,148000,7,Active
+E016,Omar Siddiqui,Male,33,Finance,Senior Accountant,Karachi,125000,5,Active
+E017,Anum Tariq,Female,28,HR,Recruiter,Lahore,90000,3,Active
+E018,Fahad Qureshi,Male,45,IT,IT Director,Islamabad,280000,15,Active
+E019,Laiba Sheikh,Female,26,Marketing,Marketing Executive,Karachi,76000,2,Resigned
+E020,Rehan Akbar,Male,37,Sales,Regional Manager,Lahore,175000,9,Active
+E021,Eman Khalid,Female,30,Finance,Financial Analyst,Karachi,118000,4,Active
+E022,Zain Abbas,Male,27,Operations,Inventory Officer,Lahore,82000,2,Active
+E023,Saira Bashir,Female,42,HR,HR Business Partner,Islamabad,190000,12,Active
+E024,Arslan Yousuf,Male,31,IT,BI Developer,Karachi,165000,6,Active
+E025,Rimsha Nadeem,Female,29,Sales,Sales Executive,Islamabad,88000,3,Active
+E026,Kashif Mehmood,Male,39,Finance,Finance Lead,Lahore,170000,10,Active
+E027,Alina Rauf,Female,23,Marketing,Marketing Intern,Karachi,45000,1,Active
+E028,Waleed Asif,Male,32,Operations,Logistics Officer,Islamabad,105000,5,Resigned
+E029,Nimra Zahid,Female,34,IT,QA Analyst,Lahore,140000,7,Active
+E030,Shahzaib Khan,Male,29,HR,HR Coordinator,Karachi,80000,2,Active
